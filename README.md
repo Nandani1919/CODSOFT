@@ -8,7 +8,10 @@ Minimalistic UI: Clean and straightforward design for an easy user experience.
 
 # Technologies Used
 HTML: For structuring the content of the calculator.
+
 CSS: For styling and laying out the calculator interface.
+
+JavaScript
 
 # Calculator 
 <img width="375" alt="Screenshot 2024-07-27 180227" src="https://github.com/user-attachments/assets/a7642e68-d9f1-412b-bfbb-19ee196611cf">
