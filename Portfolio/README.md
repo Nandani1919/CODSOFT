@@ -43,5 +43,5 @@ This project belongs solely to the author.
 ## Screenshot
 
 <br> <br>
-<img src="C:\Users\kavya\Desktop\Portfolio.png">
+<img src=https://github.com/Nandani1919/CODSOFT/blob/main/Portfolio/Images/Portfolio.png>
 
