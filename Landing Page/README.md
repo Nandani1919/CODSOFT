@@ -33,6 +33,7 @@ This project belongs solely to the author
 
 ## Screenshot 
 <br>
+<img src=https://github.com/Nandani1919/CODSOFT/blob/main/Landing%20Page/Image/Talks.jpeg>
 
 
 
